@@ -1,0 +1,29 @@
+commit 031aebd6036e83de82e2e50b9d561fb21ccc1130
+Author: etapia <edgartapiaperez@gmail.com>
+Date:   Sat Jan 30 21:03:58 2021 -0500
+
+    borre linea
+
+commit 61f20fc5008db4557048f7c63ab12900cea463d1
+Author: etapia <edgartapiaperez@gmail.com>
+Date:   Sat Jan 30 20:58:21 2021 -0500
+
+    Linea
+
+commit ecbb9f5c690df6f6d07232315783508770de1114
+Author: etapia <edgartapiaperez@gmail.com>
+Date:   Sat Jan 30 20:41:47 2021 -0500
+
+    agregamos linea 3 dileas
+
+commit 1f0ca0fbf17e1e811679f04170a2df2f25b68ea0
+Author: etapia <edgartapiaperez@gmail.com>
+Date:   Sat Jan 30 20:40:33 2021 -0500
+
+    modifique 2 dileas
+
+commit 80af9f82fde936ed1d6b89b42709816440fe0804
+Author: etapia <edgartapiaperez@gmail.com>
+Date:   Sat Jan 30 20:33:39 2021 -0500
+
+    iniciamos
